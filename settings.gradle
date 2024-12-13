@@ -1,0 +1,3 @@
+rootProject.name = 'java_base_mediator'
+include ':centralize' , ':building-block',':identity',':contract'
+

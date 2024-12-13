@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/building-block/java_base_mediator.building-block.main.iml" filepath="$PROJECT_DIR$/.idea/modules/building-block/java_base_mediator.building-block.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/contract/java_base_mediator.contract.main.iml" filepath="$PROJECT_DIR$/.idea/modules/contract/java_base_mediator.contract.main.iml" />
+    </modules>
+  </component>
+</project>
